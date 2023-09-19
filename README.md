@@ -1,5 +1,7 @@
-<img align="right" width="20%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/2b9cb9f0-a75b-4fcf-a489-7f8f82740b91"/>
+
+<img align="right" width="15%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
 Hello! 👋 I'm Rodrigo, a passionate [your profession] from [your location]. <br/>
+
 I love working on exciting projects and solving challenging problems. Here's a bit about me:
 <br/><br/>
 
