@@ -14,39 +14,15 @@ I love working on exciting projects and solving challenging problems. Here's a b
 <!--END_SECTION:waka-->
 ---
 
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-
 ## Projects
 
 <div display="flex">
-  <img width="5%" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
-  <img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>
-  <img width="5%" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
-  <img width="5%" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
-  <img width="5%" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </div>
-
-
-- [Project 1](link-to-project-1): Short description
-- [Project 2](link-to-project-2): Short description
-
-## Latest Blog Posts
-
-- [Blog Post 1](link-to-blog-post-1)
-- [Blog Post 2](link-to-blog-post-2)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-<p align="center">
-  <a href="your-website-url">Website</a> •
-  <a href="https://twitter.com/your-twitter">Twitter</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
-</p>
