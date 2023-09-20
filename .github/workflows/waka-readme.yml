@@ -17,6 +17,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated waka-readme graph
           LOCALE: "pt_PT"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_EDITORS: "False"
           SHOW_TIMEZONE: "False"
