@@ -1,5 +1,5 @@
 
-<img align="right"  width="10%" padding="5%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
+<img align="right"  width="15%" padding="5%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
 Hello! 👋 <br/>
 I'm Rodrigo.
 
@@ -17,11 +17,6 @@ I love working on exciting projects and solving challenging problems. Here's a b
 <a href="https://leetcode.com/ramos21rodrigo/"><img src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
 
 <br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ![React](https://img.shields.io/badge/-React-000?logo=React&style=for-the-badge)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000?logo=Next.js&style=for-the-badge)
@@ -43,4 +38,8 @@ I love working on exciting projects and solving challenging problems. Here's a b
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&&style=for-the-badge)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim&&style=for-the-badge)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
