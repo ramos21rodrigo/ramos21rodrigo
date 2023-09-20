@@ -8,7 +8,7 @@ I love working on exciting projects and solving challenging problems. Here's a b
   - 🌱 I’m currently learning [something interesting].
   - 💻 Average vim enjoyer. [dotenv missing :(]
   - 📫 How to reach me: ramos21rodrigo@protonmail.com.
-  - ✅ [42Porto](https://www.42porto.com) 10m 11d. [repository soon]
+  - ✅ [42Porto](https://www.42porto.com) in 10m 11d. [repository soon]
 
 <br/>
 
