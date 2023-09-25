@@ -5,7 +5,7 @@ I'm Rodrigo.
 
 I love working on exciting projects and solving challenging problems. Here's a bit about me:
 
-  - 🌱 I’m currently learning [something interesting].
+  - 🌱 I’m currently learning rust.
   - 💻 Average vim enjoyer. [dotenv missing :(]
   - 📫 How to reach me: ramos21rodrigo@protonmail.com.
   - ✅ [42Porto](https://www.42porto.com) in 10m 11d. [repository soon]
@@ -69,10 +69,5 @@ PHP                      2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 TypeScript               2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 % 
 Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.00 % 
 ```
-
-
-
-
- Last Updated on 20/09/2023 03:26:00 UTC
 <!--END_SECTION:waka-->
 
