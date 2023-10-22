@@ -1,14 +1,11 @@
 
 <img align="right"  width="15%" padding="5%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
 Hello! 👋 <br/>
-I'm Rodrigo.
-
-I love working on exciting projects and solving challenging problems. Here's a bit about me:
 
   - 🌱 I’m currently learning rust.
   - 💻 Average vim enjoyer. [dotenv missing :(]
   - 📫 How to reach me: ramos21rodrigo@protonmail.com.
-  - ✅ [42Porto](https://www.42porto.com) in 10m 11d. [repository soon]
+  - ✅ [42Porto](https://www.42porto.com). [repository soon]
 
 <br/>
 
