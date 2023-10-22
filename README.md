@@ -1,5 +1,5 @@
 
-<img align="right"  width="15%" padding="5%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
+<img align="right"  width="8%" padding="5%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
 Hello! 👋 <br/>
 
   - 🌱 I’m currently learning rust.
