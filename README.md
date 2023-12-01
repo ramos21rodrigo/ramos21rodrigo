@@ -1,13 +1,5 @@
 
 <img align="right"  width="17%" padding="5%" src="https://github.com/ramos21rodrigo/ramos21rodrigo/assets/58150291/03c54052-f2b8-4e32-92dc-09dcf9c530f0"/>
-Hello! 👋 <br/>
-
-  - 🌱 I’m currently learning rust.
-  - 💻 Average vim enjoyer. [dotenv missing :(]
-  - 📫 How to reach me: ramos21rodrigo@protonmail.com.
-
-<br/>
-
 <a href="https://www.linkedin.com/in/rodrigo-ramos-3902b21b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:ramos21rodrigo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?&style=for-the-badge&logo=Protonmail&logoColor=white" /></a>
 <a href="https://leetcode.com/ramos21rodrigo/"><img src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
