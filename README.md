@@ -5,7 +5,6 @@ Hello! 👋 <br/>
   - 🌱 I’m currently learning rust.
   - 💻 Average vim enjoyer. [dotenv missing :(]
   - 📫 How to reach me: ramos21rodrigo@protonmail.com.
-  - ✅ [42Porto](https://www.42porto.com). [repository soon]
 
 <br/>
 
